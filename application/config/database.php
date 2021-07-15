@@ -3,10 +3,10 @@
                     $active_group = 'default';
                     $active_record = true;
                     $db['default']['hostname'] = 'localhost';
-                    $db['default']['username'] = 'kbtonmoy';
+                    $db['default']['username'] = 'tonmoy';
                     $db['default']['password'] = '6677';
-                    $db['default']['database'] = 'xeroseo';
-                    $db['default']['dbdriver'] = 'mysqli';
+                    $db['default']['database'] = 'xero';
+                    $db['default']['dbdriver'] = 'mysql';
                     $db['default']['dbprefix'] = '';
                     $db['default']['pconnect'] = FALSE;
                     $db['default']['db_debug'] = TRUE;
