@@ -1,0 +1,1 @@
+{"is_active":"645ea716cf363521b1b3d7b530dd5c0b","purchase_code":"xdas","item_name":"XeroSEO Extended","buy_at":"01-01-2020","licence_type":"Extended License","domain":"xeroseo.test","checking_date":"2021-07-15"}
